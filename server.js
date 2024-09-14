@@ -12,7 +12,7 @@ const PORT = 3000;
 // Configuração de conexão ao Azure SQL Database
 const dbConfig = {
     user: 'servidor-sqldb-easytech',
-    password: 'your_password_here',  // Substitua pela sua senha
+    password: 'Fiap@2tdsvms',  
     server: 'servidor-sqldb-easytech.database.windows.net',
     database: 'sqldb-easytech-001',
     options: {
