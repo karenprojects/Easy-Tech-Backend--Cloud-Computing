@@ -4,7 +4,7 @@
 
 Parte backend da aplicação, serve para conectar com a parte de frontend 
 
-1. Clone o repositório:
+1.Clone o repositório:
 git clone https://github.com/karenprojects/Easy-Tech-Backend-Cloud-Computing.git
 cd Easy-Tech-Backend-Cloud-Computing
 
